@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **💻 Developing a recipe web app using React, Next.js, and Spoonacular API**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
 - 💬 Ask me about: **💡 JavaScript, React, Next.js Node.js, MongoDB, and RESTful APIs**
-- 📂 Portfolio: **<a href="devj.xyz" target="_blank">devj.xyz</a>**
+- 📂 Portfolio: **<a href="https://portfolio-weld-ten-16.vercel.app/" target="_blank">My Portfolio</a>**
 
  **<h3 align="left">Skills</h3>**
 
@@ -37,4 +37,4 @@
 
  **<h3 align="left">Support Me</h3>**
 
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
